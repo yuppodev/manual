@@ -1,3 +1,10 @@
-# My Awesome Book
+# 云蒲科技技术手册
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+仅供参考
+
+联系人：马江林
+
+QQ：215001199
+
+Email：majianglin at yuppo.cn
+
