@@ -8,3 +8,6 @@ QQ：215001199
 
 Email：majianglin at yuppo.cn
 
+Mobile: 138幺幺52贰叁52
+
+Wechat: majianglin
