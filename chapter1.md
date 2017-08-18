@@ -20,9 +20,9 @@ stream
     指定的流标识编号，每个媒体渠道的视频流标识别可能不通，请联系商务人员获取
 password
     加密密码，由服务器分发，不定期更新。请联系商务人员获取
-md5
+token
     为expires＋device_id＋stream＋password组成的源串，进行md5加密后，对数据进行base64编码并过滤获得。加密及校验工具请联系商务人员获取
 ```
 
-> http://video.iqucang.com/live/<stream>.m3u8?expires=<expires>&token=<md5>&deviceid=<deviceid>
-
+最后拼出来一个get请求的URL
+> http://video.iqucang.com/live/stream.m3u8?expires=***&token=***&deviceid=***
